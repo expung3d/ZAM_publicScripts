@@ -11,3 +11,5 @@ Large Scale:
 Special:
   Special contains special effect type scripts or random funny scripts.
 
+Logistics:
+  My custom Logistics system similar to that found in Squad.
